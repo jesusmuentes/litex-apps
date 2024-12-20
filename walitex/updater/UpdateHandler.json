@@ -1,8 +1,8 @@
 {
-    "VERSION_NAME": "1.60.0",
+    "VERSION_NAME": "1.60.1",
     "WEBSITE_URL": "https://walitex.com/",
-    "OFFICIAL_URL": "https://bitbucket.org/jesusmuentes/walitex/downloads/WALiteX_Official_1.60.0.apk",
-    "CLONE_URL": "https://bitbucket.org/jesusmuentes/walitex/downloads/WALiteX_Clone_1.60.0.apk",
-    "CLONE2_URL": "https://bitbucket.org/jesusmuentes/walitex/downloads/WALiteX_Official_1.60.0.apk",
-    "CLONE3_URL": "https://bitbucket.org/jesusmuentes/walitex/downloads/WALiteX_Universe_1.60.0.apk"
+    "OFFICIAL_URL": "https://bitbucket.org/jesusmuentes/walitex/downloads/WALITEX_1.60.1_OFFICIAL.apk",
+    "CLONE_URL": "https://bitbucket.org/jesusmuentes/walitex/downloads/WALITEX_1.60.1_CLONE.apk",
+    "CLONE2_URL": "https://bitbucket.org/jesusmuentes/walitex/downloads/WALITEX_1.60.1_OFFICIAL.apk",
+    "CLONE3_URL": "https://bitbucket.org/jesusmuentes/walitex/downloads/WALITEX_1.60.1_UNIVERSE.apk"
 }
