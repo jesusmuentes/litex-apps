@@ -1,8 +1,8 @@
 {
-    "VERSION_NAME": "1.40.1",
+    "VERSION_NAME": "1.50.0",
     "WEBSITE_URL": "https://walitex.com/wa-business-litex/",
-    "OFFICIAL_URL": "https://bitbucket.org/dev-yisus/wabusinesslitex/downloads/WABUSINESSLITEX_1.40.1_OFFICIAL.apk",
-    "CLONE_URL": "https://bitbucket.org/dev-yisus/wabusinesslitex/downloads/WABUSINESSLITEX_1.40.1_CLONE.apk",
-    "CLONE2_URL": "https://bitbucket.org/dev-yisus/wabusinesslitex/downloads/WABUSINESSLITEX_1.40.1_CLONE2.apk",
-    "CLONE3_URL": "https://bitbucket.org/dev-yisus/wabusinesslitex/downloads/WABUSINESSLITEX_1.40.1_CLONE2.apk"
+    "OFFICIAL_URL": "https://github.com/jesusmuentes/walitexb/releases/download/v1.50.0/WABUSINESSLITEX_1.50.0_OFFICIAL.apk",
+    "CLONE_URL": "https://github.com/jesusmuentes/walitexb/releases/download/v1.50.0/WABUSINESSLITEX_1.50.0_CLONE.apk",
+    "CLONE2_URL": "https://github.com/jesusmuentes/walitexb/releases/download/v1.50.0/WABUSINESSLITEX_1.50.0_CLONE2.apk",
+    "CLONE3_URL": "https://github.com/jesusmuentes/walitexb/releases/download/v1.50.0/WABUSINESSLITEX_1.50.0_CLONE2.apk"
 }
